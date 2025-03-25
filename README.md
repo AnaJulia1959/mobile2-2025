@@ -1,1 +1,3 @@
-# mobile2-2025
+# appacessivel
+
+A new Flutter project.
